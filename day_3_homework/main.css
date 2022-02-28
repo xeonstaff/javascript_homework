@@ -1,0 +1,13 @@
+* {
+    background: darksalmon;
+}
+
+body{
+    background-color:darksalmon;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+    padding:5px;
+}
